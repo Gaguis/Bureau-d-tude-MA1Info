@@ -1,0 +1,7 @@
+# Séance 1 : (14/02/2017)
+- Chercher sur des logiciel de mapping (comme HeavyM) permettront de projeter des images 3D sur la surface d'un bâtiment. Et tester le fonctionnement de ces derniers pour avoir une idée sur le logiciel que je dois créer.
+- Choisir les outils de programmation necessaires pour réaliser le travail :
+       -  Langage de programmation : C++
+       - IDE : Visual studio 
+       - Framework : OpenFramework
+       - Matériels : Un projecteur + une maquette de bâtiment
