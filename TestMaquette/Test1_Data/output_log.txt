@@ -1,0 +1,31 @@
+Initialize engine version: 5.5.2f1 (3829d7f588f3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: Intel(R) HD Graphics 3000 (ID=0x116)
+    Vendor:   Intel
+    VRAM:     848 MB
+    Driver:   9.17.10.4459
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Gagui\Desktop\TestMaquette\Test1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Gagui\Desktop\TestMaquette\Test1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Gagui\Desktop\TestMaquette\Test1_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Gagui\Desktop\TestMaquette\Test1_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Gagui\Desktop\TestMaquette\Test1_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Gagui\Desktop\TestMaquette\Test1_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Gagui\Desktop\TestMaquette\Test1_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Gagui\Desktop\TestMaquette\Test1_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\Gagui\Desktop\TestMaquette\Test1_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Gagui\Desktop\TestMaquette\Test1_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.038 seconds
+Platform assembly: C:\Users\Gagui\Desktop\TestMaquette\Test1_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Gagui\Desktop\TestMaquette\Test1_Data\Managed\System.dll (this message is harmless)
+desktop: 848x480 60Hz; virtual: 2214x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.649579 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: b6c -> priority: 1 
+  Thread -> id: 2040 -> priority: 1 
